@@ -1,0 +1,17 @@
+developer : fenil
+develop date : 28-jun-19
+developer Account : 
+
+versionCode 1
+versionName "1.0"
+
+app name : Square Fitter
+
+jks file name : Square Fitter.jks
+
+ads ID : 
+ads banner : 
+ads interstitial : 
+
+alisa : Key0
+password : sir ae nakhelo

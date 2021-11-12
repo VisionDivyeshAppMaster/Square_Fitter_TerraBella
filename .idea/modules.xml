@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Square_Fitter_TerraBella.iml" filepath="$PROJECT_DIR$/.idea/modules/Square_Fitter_TerraBella.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Square_Fitter_TerraBella.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Square_Fitter_TerraBella.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/Square_Fitter_TerraBella.nativetemplates.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/Square_Fitter_TerraBella.nativetemplates.iml" />
+    </modules>
+  </component>
+</project>

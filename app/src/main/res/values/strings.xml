@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Inst Fitter</string>
+    <string name="StartScreenString">Add photo</string>
+
+    <string name="gallery">Gallery</string>
+    <string name="background">Background</string>
+    <string name="patten">Patten</string>
+    <string name="blur">Blur</string>
+    <string name="rotate">Rotate</string>
+    <string name="developer"></string>
+
+    <!-- Current Ads String -->
+    <string name="adcolony_app_id">app801b6402e4b741ad8b</string>
+    <string name="adcolony_banner_id">vzc8fd799f505d4d4c9c</string>
+    <string name="adcolony_interstitial_id">vza6ef94e4656240dca5</string>
+
+</resources>
