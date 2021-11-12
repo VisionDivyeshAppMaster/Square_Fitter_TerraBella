@@ -123,7 +123,7 @@ public class picinSquare_Activity extends AppCompatActivity {
             editor.commit();
         }
 
-        prefButton = (ImageView) findViewById(R.id.pref);
+        prefButton = (ImageView) findViewById(R.id.pref5);
         imageView = (ImageView) findViewById(R.id.imageView1);
 
         widthAndHeight = getScreenWidth();
